@@ -29,3 +29,8 @@ body {
   font-size: 150%;
   margin-top:50px;
 }
+
+.col {
+  display: inline-block;
+  width: calc(50% - 10px);
+}
